@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://sbrinkmeyer.github.io/sitemap.xml 
