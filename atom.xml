@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[YAOB (Yet Another Octopress Blog)]]></title>
-  <link href="http://sbrinkmeyer.github.io/atom.xml" rel="self"/>
-  <link href="http://sbrinkmeyer.github.io/"/>
-  <updated>2016-10-17T10:04:03-07:00</updated>
-  <id>http://sbrinkmeyer.github.io/</id>
+  <link href="https://sbrinkmeyer.github.io/atom.xml" rel="self"/>
+  <link href="https://sbrinkmeyer.github.io/"/>
+  <updated>2016-10-17T10:10:29-07:00</updated>
+  <id>https://sbrinkmeyer.github.io/</id>
   <author>
     <name><![CDATA[Scott Brinkmeyer]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Maker's Mark Bourbon]]></title>
-    <link href="http://sbrinkmeyer.github.io/blog/2016/10/16/makers-mark-bourbon/"/>
+    <link href="https://sbrinkmeyer.github.io/blog/2016/10/16/makers-mark-bourbon/"/>
     <updated>2016-10-16T16:35:05-07:00</updated>
-    <id>http://sbrinkmeyer.github.io/blog/2016/10/16/makers-mark-bourbon</id>
+    <id>https://sbrinkmeyer.github.io/blog/2016/10/16/makers-mark-bourbon</id>
     <content type="html"><![CDATA[<h1>Bourbon</h1>
 
 <p>this is not sponsored by Maker&rsquo;s Mark in any way.</p>
@@ -28,9 +28,9 @@
   
   <entry>
     <title type="html"><![CDATA[my friend Irving]]></title>
-    <link href="http://sbrinkmeyer.github.io/blog/2016/10/16/my-friend-irving/"/>
+    <link href="https://sbrinkmeyer.github.io/blog/2016/10/16/my-friend-irving/"/>
     <updated>2016-10-16T16:25:08-07:00</updated>
-    <id>http://sbrinkmeyer.github.io/blog/2016/10/16/my-friend-irving</id>
+    <id>https://sbrinkmeyer.github.io/blog/2016/10/16/my-friend-irving</id>
     <content type="html"><![CDATA[<h1>you can blame Irving</h1>
 
 <p>I worked with Irving back in the day.  He was really a good person to work with.  Really smart.  Enjoyed it very much.  Maybe a littly jealous about him moving on.  Though, when he left it did open up a spot for me.  I don&rsquo;t know if it was his leaving or Justin&rsquo;s, but that is what gave me an opening.</p>
@@ -49,9 +49,9 @@
   
   <entry>
     <title type="html"><![CDATA[boiling the ocean]]></title>
-    <link href="http://sbrinkmeyer.github.io/blog/2016/10/12/boiling-the-ocean/"/>
+    <link href="https://sbrinkmeyer.github.io/blog/2016/10/12/boiling-the-ocean/"/>
     <updated>2016-10-12T13:15:19-07:00</updated>
-    <id>http://sbrinkmeyer.github.io/blog/2016/10/12/boiling-the-ocean</id>
+    <id>https://sbrinkmeyer.github.io/blog/2016/10/12/boiling-the-ocean</id>
     <content type="html"><![CDATA[<h1>Boiling an ocean</h1>
 
 <p>Texted my best friend about being tired.  Why, cause I&rsquo;ve been working at boiling the ocean now since June.  She said, &ldquo;those who can do&rdquo;.  Damn do i just set that bag of bricks down &hellip; then what?</p>

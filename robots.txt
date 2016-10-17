@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://sbrinkmeyer.github.io/sitemap.xml 
+Sitemap: https://sbrinkmeyer.github.io/sitemap.xml 
