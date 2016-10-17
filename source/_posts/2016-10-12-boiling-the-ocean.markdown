@@ -10,23 +10,10 @@ categories:
 
 Texted my best friend about being tired.  Why, cause I've been working at boiling the ocean now since June.  She said, "those who can do".  Damn do i just set that bag of bricks down ... then what?
 
-# Markdown Headers?
+## lets go to the cloud
 
-just getting started on this so bear with me.
+what have you got?  Nothing.  Well all right then where do i sign up?
 
-Yeah i know i already published this site.  guess what i'm going to keep adding to this until i feel ok about what this is.  I don't know any of this
+seriously, naive.  so many things just worked before and then suddenly working in the brand new enviornment only to be hit by so many things i didn't know i didn't know.
 
-
-[inline-style link](httpw://www.google.com)
-## boom
----
-
-{% highlight ruby %}
-def show
-  @widget = Widget(params[:id])
-  respond_to do |format|
-    format.html # show.html.erb
-    format.json { render json: @widget }
-  end
-end
-{% endhighlight %}
+... more to come ... right here
