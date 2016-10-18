@@ -17,3 +17,4 @@ what have you got?  Nothing.  Well all right then where do i sign up?
 seriously, naive.  so many things just worked before and then suddenly working in the brand new enviornment only to be hit by so many things i didn't know i didn't know.
 
 ... more to come ... right here
+
